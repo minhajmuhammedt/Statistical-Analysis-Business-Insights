@@ -19,7 +19,7 @@ Data Preparation: Cleaned and standardized datasets for statistical analysis
 
 Exploratory Analysis: Summary statistics and distribution plots
 
-Hypothesis Testing: T-tests, Chi-square, and ANOVA for significance testing
+Hypothesis Testing: T-test, Z-test, One tailed tests, Two tailed tests
 
 Modeling: Regression and correlation analysis for prediction
 
